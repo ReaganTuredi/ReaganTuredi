@@ -41,7 +41,10 @@ or <a href="mailto:reagan.turedi@gmail.com"><b>email</b></a> me
   <!-- <a target="_blank" href="https://www.linkedin.com/in/reagan-turedi-436855226/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 -->
 
-<a href="https://www.linkedin.com/in/reagan-turedi-436855226/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/reagan-turedi-436855226/" target="_blank"><img src="https://clipground.com/images/linkedin-background-clipart-5.png" width = 40px alt="LinkedIn"></a>
+  <a href="https://twitter.com/Reagan_Turedi" target="_blank"><img src="https://www.pngkey.com/png/full/2-27646_twitter-logo-png-transparent-background-logo-twitter-png.png" width = 40px alt="LinkedIn"></a>
+   <a href="https://www.reddit.com/user/Reagan_Turedi" target="_blank"><img src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?width=720&auto=webp&s=be9d031a2551b47bcd40ec45feec636d42a32127" width = 40px alt="LinkedIn"></a>
+ 
 
 
 </div>
