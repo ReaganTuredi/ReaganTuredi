@@ -33,10 +33,11 @@ or <a href="mailto:reagan.turedi@gmail.com"><b>email</b></a> me
 <a href= https://www.tensorflow.org= > <img width ='50' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png'> </a>
 <a href= = > <img width ='50' src ='https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png'> </a>
 <a href= https://www.mysql.com = > <img width ='55' src ='https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-development-mysql-logo-code-icon-9.png'> </a>
-
+<a href= https://www.mathworks.com/products/matlab.html = > <img width ='55' src ='https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png'> </a>  
+ 
 ---
 
-<i>Find me on LinkedIn:</i><br>
+<i>Find me on the web:</i><br>
 
   <!-- <a target="_blank" href="https://www.linkedin.com/in/reagan-turedi-436855226/">🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​</a> ●
 -->
