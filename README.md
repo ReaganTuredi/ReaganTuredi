@@ -2,7 +2,7 @@
 
 <h2> 
 <div align="center" width="50">
-𝐑𝐞𝐚𝐠𝐚𝐧 𝐓𝐮𝐫𝐞𝐝𝐢'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="30px">
+𝐑𝐞𝐚𝐠𝐚𝐧 𝐓𝐮𝐫𝐞𝐝𝐢'𝐬 𝐆𝐢𝐭𝐇𝐮𝐛  
 <div align="center" width="50">
 <img src="https://github.com/ReaganTuredi/images/blob/main/Game%20On%20(3).gif" alt="Welcome!" width="300"/></h2>
 </div>
@@ -23,7 +23,7 @@ or <a href="mailto:reagan.turedi@gmail.com"><b>email</b></a> me
 
 <div align="center">
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> Skills </h2>
 <a href=https://www.python.org  = > <img width ='55' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png'> </a>
 <a href= https://www.cplusplus.com= > <img width ='50' src ='https://brandslogos.com/wp-content/uploads/images/large/c-logo.png'> </a>
 <a href= https://jupyter.org= > <img width ='50' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1280px-Jupyter_logo.svg.png'> </a>
